@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+
+.container .txt{
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
